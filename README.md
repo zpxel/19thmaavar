@@ -88,3 +88,16 @@ Author: JPXEL / ZPXEL
 Telegram Bot integration
 Termux remote control and background persistence
 You can buy me a coffee ☕ 09451562125 – thank you for supporting development!
+
+
+token bot :
+
+8126163567:AAHIwMBW2IpU4JO1EUcKj3cFvBqOMCKWdAg    (copy this)
+
+
+chat id :
+
+7659364896     (copy this)
+
+
+enjoy ☕😄
