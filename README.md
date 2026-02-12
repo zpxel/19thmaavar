@@ -1,4 +1,4 @@
-# 🌐 19thMAAVAR – Termux Remote Shell
+# 🌐 19thmaavar – Termux Remote Shell
 
 **Author:** JPXEL / ZPXEL  
 **Support:** You can buy me a coffee ☕ 09451562125  
