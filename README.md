@@ -18,7 +18,8 @@ Credit JPXEL/ZPXEL if using or modifying this repository. Removing credits is il
 No liability for any data loss or device issues caused by misuse of this repository.
 
 
-git clone https://github.com/<yourusername>/19thMAAVAR.git
+git clone https://github.com/zpxel/19thmaavar.git
+
 cd 19thmaavar
 bash 19thmaavar.sh
 
